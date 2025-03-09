@@ -142,3 +142,4 @@ Your agent will be tested in a ubuntu 22.04 environment with 8GB RAM. Ensure tha
 
 1. The final evaluation will be on a board of size no greater than 9 x 9. 
 2. The total time limit for each player is now increased to 90s
+3. Submission Link is [here](https://forms.gle/FGQEyfE5g3NTKRzRA)
